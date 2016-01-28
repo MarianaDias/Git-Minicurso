@@ -53,3 +53,7 @@ Autor: Marcelo Cordeiro
 Link: https://www.gitignore.io/
 
 ---
+
+Autor: Mariana Dias 
+
+---
